@@ -1,0 +1,7 @@
+C:\Users\Yuliya\source\repos\FormalLanguages_Task1\FormalLanguages_Task1\obj\Debug\FormalLanguages_Task1.csprojAssemblyReference.cache
+C:\Users\Yuliya\source\repos\FormalLanguages_Task1\FormalLanguages_Task1\obj\Debug\FormalLanguages_Task1.csproj.CoreCompileInputs.cache
+C:\Users\Yuliya\source\repos\FormalLanguages_Task1\FormalLanguages_Task1\bin\Debug\FormalLanguages_Task1.exe.config
+C:\Users\Yuliya\source\repos\FormalLanguages_Task1\FormalLanguages_Task1\bin\Debug\FormalLanguages_Task1.exe
+C:\Users\Yuliya\source\repos\FormalLanguages_Task1\FormalLanguages_Task1\bin\Debug\FormalLanguages_Task1.pdb
+C:\Users\Yuliya\source\repos\FormalLanguages_Task1\FormalLanguages_Task1\obj\Debug\FormalLanguages_Task1.exe
+C:\Users\Yuliya\source\repos\FormalLanguages_Task1\FormalLanguages_Task1\obj\Debug\FormalLanguages_Task1.pdb
